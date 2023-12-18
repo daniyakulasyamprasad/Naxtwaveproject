@@ -1,0 +1,236 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    margin: 0%;
+    padding: 0%;
+}
+.capital p{
+    padding: 1rem;
+    
+    background-color: rgba(0, 0, 255, 0.437);
+    display: flex;
+    justify-content: center;
+
+}
+.Designed{
+    background-color: aliceblue;
+    margin-top: -1rem;
+    padding-left: 12rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.two{
+    margin-left: 1rem;
+}
+.box1{
+    margin-left: 30rem;
+    margin-top: -30rem;
+}
+.logoss{
+    margin-left: 10rem;
+    margin-top: -5.5rem;
+}
+.box1{
+    background-color: white;
+    width: max-content;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+.box2{
+    background-color: white;
+    width: max-content;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin-left: 55rem;
+    margin-top: -42rem;
+}
+/* .reqiust{
+    margin-top: 2rem;
+} */
+.Recognized{
+    background-color: aliceblue;
+    padding: 3rem 0rem;
+    margin-top: 2rem;
+}
+.award{
+    background-color: aliceblue;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+}
+.trainers{
+    margin-top: 2rem;
+}
+.trainer{
+    width: 80%;
+    height: 60vh;
+    border: white solid 1rem;
+    background-color: aliceblue;
+    border-radius: 3rem;
+}
+.back{
+    background-color: #0d2436;
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+.footer {
+    width: 100%;
+    height: 1180px;
+    background-size: cover;
+    background-color:#0d2436;
+    margin-top: 100px;
+}
+
+.footer a:hover {
+    color: white
+}
+
+.read p {
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.quick p {
+    margin-left: 380px;
+    margin-top: -260px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.quick a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-left: 380px;
+    margin-top: 15px;
+    display: block;
+}
+
+.quickone a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-left: 550px;
+    margin-top: 15px;
+    display: block;
+}
+
+
+.Method p {
+    margin-left: 860px;
+    margin-top: -275px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.visa img {
+    margin-left: 50px;
+}
+
+.rozar img {
+    margin-left: 50px;
+}
+
+.we a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    display: block;
+}
+
+.face {
+    margin-top: 40px;
+    margin-left: 56.5px;
+}
+
+.face a {
+    margin-left: 20px;
+}
+
+.faceone a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.faceones a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.footfinal p {
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.f a {
+    text-decoration: none;
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: 550;
+    font-size: 19px;
+}
+
+.hydra a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    line-height: 30px;
+}
+
+.fa a {
+    text-decoration: none;
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: 550;
+    font-size: 19px;
+}
+
+.whatsapp {
+    position: absolute;
+    position: fixed;
+    top: 460px;
+    margin-left: 1030px;
+    background-color: rgb(51, 171, 51);
+    display: grid;
+    place-items: center;
+    display: flex;
+    padding: 3px 26px 3px 26px;
+    border-radius: 60px;
+}
+.Masterclass{
+    background-color: #0d2436;
+    width: 100%;
+}
