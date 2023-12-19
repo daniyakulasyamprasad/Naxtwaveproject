@@ -234,3 +234,32 @@
     background-color: #0d2436;
     width: 100%;
 }
+
+
+
+
+
+
+
+
+/* Log in  */
+.inner{
+    background-color: aliceblue;
+    width: 50%;
+    height: 100vh;
+}
+.form{
+    background-color: white;
+    width: 50%;
+    border-radius: 1.5rem;
+    padding: 2rem;
+    margin-left: 25%;
+    margin-top: 5rem;
+}
+.inner{
+    float: left;
+}
+.Students {
+    font-size: 25px;
+    font-weight: 800;
+}
